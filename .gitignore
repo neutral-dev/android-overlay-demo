@@ -1,0 +1,7 @@
+# Ignore all output
+gen/
+bin/
+# Ignore ide-relates files
+.classpath
+.project
+proguard.cfg
